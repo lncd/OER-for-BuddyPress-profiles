@@ -1,22 +1,22 @@
-Use Case: Enhance staff profiles with Open Educational Resources
+**Use Case**: Enhance staff profiles with Open Educational Resources
 
 # CHARACTERISTIC INFORMATION
 
-Goal in Context: Allow staff to edit their institutional online profile and aggregate and link to Open Educational Resources from popular third-party services.
+**Goal in Context:** Allow staff to edit their institutional online profile and aggregate and link to Open Educational Resources from popular third-party services.
 
-Scope: Academic profiles.
+**Scope:** Academic profiles.
 
-Level: Primary task.
+**Level:** Primary task.
 
-Preconditions: The (intended) use of BuddyPress extended profiles within an academic context.
+**Preconditions:** The (intended) use of BuddyPress extended profiles within an academic context.
 
-Success End Condition: Staff can aggregate and link to Open Educational Resources hosted on third-party websites by editing their BuddyPress profile.
+**Success End Condition:** Staff can aggregate and link to Open Educational Resources hosted on third-party websites by editing their BuddyPress profile.
 
-Failed End Condition: Staff are unable to aggregate and link to Open Educational Resources hosted on third-party websites by editing their BuddyPress profiles.
+**Failed End Condition:** Staff are unable to aggregate and link to Open Educational Resources hosted on third-party websites by editing their BuddyPress profiles.
 
-Primary Actor: An Academic member of staff
+**Primary Actor:** An Academic member of staff
 
-Trigger: An 'institutional change' project to promote the production and use of OER.
+**Trigger:** An 'institutional change' project to promote the production and use of OER.
 
 # MAIN SUCCESS SCENARIO
 
@@ -44,17 +44,17 @@ Trigger: An 'institutional change' project to promote the production and use of 
 
 # RELATED INFORMATION (optional)
 
-Priority: Top
+**Priority:** Top
 
-Performance Target: 5 mins.
+**Performance Target:** 5 mins.
 
-Frequency: Once per third-party service added. Occasional changes to filter for each service.
+**Frequency:** Once per third-party service added. Occasional changes to filter for each service.
 
-Channel to primary actor: Web browser
+**Channel to primary actor:** Web browser
 
-Secondary Actors: WordPress, BuddyPress, third-party web services
+**Secondary Actors:** WordPress, BuddyPress, third-party web services
 
-Channel to Secondary Actors: Web browser, WordPress/BuddyPress APIs, WordPress database, third-party APIs/feeds, 
+**Channel to Secondary Actors:** Web browser, WordPress/BuddyPress APIs, WordPress database, third-party APIs/feeds, 
 
 # OPEN ISSUES (optional)
 
@@ -65,4 +65,4 @@ Channel to Secondary Actors: Web browser, WordPress/BuddyPress APIs, WordPress d
 
 # SCHEDULE
 
-Due Date: Release 1.0 (September 2012).
+**Due Date:** Release 1.0 (September 2012).
