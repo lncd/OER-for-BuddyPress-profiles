@@ -42,7 +42,7 @@
 
 7. The information aggregated into the updated BuddyPress profile may need to be re-presented on other third-party websites and web services. 
 
-# RELATED INFORMATION (optional)
+# RELATED INFORMATION
 
 **Priority:** Top
 
@@ -56,7 +56,7 @@
 
 **Channel to Secondary Actors:** Web browser, WordPress/BuddyPress APIs, WordPress database, third-party APIs/feeds, 
 
-# OPEN ISSUES (optional)
+# OPEN ISSUES
 
 * Which third-party services will be supported?
 * Will profile fields differ, depending on staff/student role?
