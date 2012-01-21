@@ -6,12 +6,47 @@ This should include intended benefits/impact of the work, a schedule and structu
 
 --------------
 
+## Benefits & Impact
 
+* Enhances existing platform for open content.
+* Documented research into use of specific third-party APIs for integration into institutional sites.
+* Documented implementation of BuddyPress as institutional social network.
+* Documented implementation of BuddyPress as a staff profile management tool.
+* Ties in with WordPress as a platform for the hosting, publication and dissemination of OERs (builds on ChemistryFM). 
+* Raises overall awareness/use of social media among staff i.e. improves digital literacy
+* Development of local BuddyPress/WordPress skills among technical staff. Enhanced capacity.
+* Documented research and development of OAuth as used in university context. BuddyPress as a consumer and producer application of open content.
+* ?? Integration with CUNY 'Academic Commons in a Box' project
+* Supports the Lincoln/HEA institutional change project 'embedding OER': Dissemination and integration of third-party web services into a portfolio of work.
+* Investigation into the appropriate use or modification and implementation of resource description standards (e.g. LRMI) and other tools (e.g. Pat Lockley's Dublin Core Metadata plugin) to enrich the staff profile.
 
+## Schedule and structure
 
+[Include diagram of proposed outcomes]
 
+Slideshare --|															  
+YouTube -----| Consumer > BP profile > Producer | lincoln.ac.uk
+Jorum -------|															  
 
+* Agile methods (iterative, user focused, Constant Integration).
+* Open development (Github, Pivotal Tracker)
+* Quality assurance (unit testing, code peer-review, user testing, collaboration with CUNY)
+* Month 1: Initiate project. Set up website and development environment. Investigate existing BuddyPress/WordPress APIs and plugins.
+* Month 2: Investigate a number of (at least three) third-party APIs for consuming/integration into BuddyPress profiles, including licensing and API T&C.
+* Month 3-4: Integration of data from third-party APIs into BuddyPress profiles as consumer application. Enriching staff profiles with open content and rich metadata.
+* Month 5-6: Integration of OAuth into BuddyPress profiles as producer application. Third-party publishing of staff profiles with open content. e.g. corporate website.
+* Month 6: Close project. Finish up documentation, release plugin on wordpress.org repository.
 
+## Risk assessment
+
+## Engagement and dissemination
+
+* Project blog and Twitter
+* Collaboration with and testing by CUNY Academic Commons in a Box project
+* Support and user testing with Lincoln/HEA 'Embedding OER' institutional change project and sub-projects.
+* Promotion of new features to all staff at Lincoln.
+* Open source code on Github ('social coding')
+* Plugin published/distributed from wordpress.org repository
 
 -------------- 
 

@@ -1,6 +1,6 @@
 # Related links
 
-## Misc. BuddyPress plugins
+## Misc. BuddyPress/WordPress plugins
 
 http://wordpress.org/extend/plugins/yd-buddypress-feed-syndication/
 
@@ -23,6 +23,14 @@ http://wordpress.org/extend/plugins/collabpress/
 http://wordpress.org/extend/plugins/forum-attachments-for-buddypress/
 
 http://wordpress.org/extend/plugins/bp-external-activity/
+
+http://wordpress.org/extend/plugins/mendeleyplugin/
+
+http://wordpress.org/extend/plugins/oauth-provider/
+
+http://wordpress.org/extend/plugins/tags/oauth
+
+
 
 ## OER General
 
@@ -55,3 +63,18 @@ http://standards.jisc.ac.uk/catalogue/Standards_Entries.phtml
 http://joss.blogs.lincoln.ac.uk/?s=buddypress
 
 http://joss.blogs.lincoln.ac.uk/?s=wordpress
+
+
+
+## APIs
+
+http://developer.edina.ac.uk/projects/jorumapi/wiki
+
+http://www.slideshare.net/developers
+
+http://code.google.com/apis/youtube/overview.html
+
+
+
+
+
