@@ -25,7 +25,9 @@ This should include intended benefits/impact of the work, a schedule and structu
 [Include diagram of proposed outcomes]
 
 Slideshare --|															  
+
 YouTube -----| Consumer > BP profile > Producer | lincoln.ac.uk
+
 Jorum -------|															  
 
 * Agile methods (iterative, user focused, Constant Integration).
