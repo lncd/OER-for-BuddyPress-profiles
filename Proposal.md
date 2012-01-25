@@ -15,20 +15,16 @@ This should include intended benefits/impact of the work, a schedule and structu
 * Ties in with WordPress as a platform for the hosting, publication and dissemination of OERs (builds on ChemistryFM). 
 * Raises overall awareness/use of social media among staff i.e. improves digital literacy
 * Development of local BuddyPress/WordPress skills among technical staff. Enhanced capacity.
-* Documented research and development of OAuth as used in university context. BuddyPress as a consumer and producer application of open content.
-* ?? Integration with CUNY 'Academic Commons in a Box' project
+* Documented research and development of OAuth as used in university context. BuddyPress as a consumer and producer application of open content via Nucleus (MongoDB) datastore.
+* User testing and alignment with CUNY 'Academic Commons in a Box' project.
 * Supports the Lincoln/HEA institutional change project 'embedding OER': Dissemination and integration of third-party web services into a portfolio of work.
-* Investigation into the appropriate use or modification and implementation of resource description standards (e.g. LRMI) and other tools (e.g. Pat Lockley's Dublin Core Metadata plugin) to enrich the staff profile.
+* Extends the use of Nuclues as an institutional data warehouse for people data which includes data about open content.
 
 ## Schedule and structure
 
-[Include diagram of proposed outcomes]
-
-Slideshare --|															  
-
-YouTube -----| Consumer > BP profile > Producer | lincoln.ac.uk
-
-Jorum -------|															  
+[Include diagram of proposed architecture]
+														  
+Third-party APIs < Consumer < BP profile > Nucleus > APIs > Producer > lincoln.ac.uk												
 
 * Agile methods (iterative, user focused, Constant Integration).
 * Open development (Github, Pivotal Tracker)
@@ -36,10 +32,12 @@ Jorum -------|
 * Month 1: Initiate project. Set up website and development environment. Investigate existing BuddyPress/WordPress APIs and plugins.
 * Month 2: Investigate a number of (at least three) third-party APIs for consuming/integration into BuddyPress profiles, including licensing and API T&C.
 * Month 3-4: Integration of data from third-party APIs into BuddyPress profiles as consumer application. Enriching staff profiles with open content and rich metadata.
-* Month 5-6: Integration of OAuth into BuddyPress profiles as producer application. Third-party publishing of staff profiles with open content. e.g. corporate website.
-* Month 6: Close project. Finish up documentation, release plugin on wordpress.org repository.
+* Month 5-6: Integration of BuddyPress profiles with Nucleus datastore, enabling 're-publishing' of staff profiles with open content via APIs over OAuth. e.g. corporate website.
+* Month 6: Close project. Finish up documentation, release plugin(s) on wordpress.org repository.
 
 ## Risk assessment
+
+* 
 
 ## Engagement and dissemination
 
