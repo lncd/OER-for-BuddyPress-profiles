@@ -8,7 +8,7 @@ This should include intended benefits/impact of the work, a schedule and structu
 
 ## Benefits & Impact
 
-* Enhances existing platform for open content.
+* Enhances existing platform for open content. WordPress increasingly popular in HE sector. BuddyPress offers basis for an easy-to-use, identity management tool.
 * Documented research into use of specific third-party APIs for integration into institutional sites.
 * Documented implementation of BuddyPress as institutional social network.
 * Documented implementation of BuddyPress as a staff profile management tool.
@@ -18,13 +18,13 @@ This should include intended benefits/impact of the work, a schedule and structu
 * Documented research and development of OAuth as used in university context. BuddyPress as a consumer and producer application of open content via Nucleus (MongoDB) datastore.
 * User testing and alignment with CUNY 'Academic Commons in a Box' project.
 * Supports the Lincoln/HEA institutional change project 'embedding OER': Dissemination and integration of third-party web services into a portfolio of work.
-* Extends the use of Nuclues as an institutional data warehouse for people data which includes data about open content.
+* Extends the use of Nucleus as an institutional datastore for people data.
 
 ## Schedule and structure
 
 [Include diagram of proposed architecture]
 														  
-Third-party APIs < Consumer < BP profile > Nucleus > APIs > Producer > lincoln.ac.uk												
+Third-party APIs < Consumer < BP profile > Nucleus APIs > Producer > lincoln.ac.uk	 and elsewhere...
 
 * Agile methods (iterative, user focused, Constant Integration).
 * Open development (Github, Pivotal Tracker)
@@ -37,6 +37,8 @@ Third-party APIs < Consumer < BP profile > Nucleus > APIs > Producer > lincoln.a
 
 ## Risk assessment
 
+* Involves recently appointed staff, who need to learn several different technologies (WordPress/BuddyPress/MongoDB/OAuth). They have some prior experience of this and will be mentored by more experienced staff.
+* Need to investigate licensing issues around storage and re-publishing of third-party data. May need to 'cache' rather than warehouse.
 * 
 
 ## Engagement and dissemination
