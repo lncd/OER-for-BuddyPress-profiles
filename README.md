@@ -1,3 +1,4 @@
+# README
 This project will undertake research and development into the use of BuddyPress as an institutional academic profile management tool which aggregates teaching and learning resources as well as research outputs held on third-party websites into the individual’s BuddyPress profile. 
 
 BuddyPress is a social networking plugin for WordPress, the popular Web Content Management System. The University of Lincoln was the first UK university to make BuddyPress available to all staff and students and has followed the development of BuddyPress carefully since its early alpha/beta stages. At the time of writing, over 2600 staff and students have used or are using BuddyPress at the University of Lincoln and we are currently working to make BuddyPress the staff profile management tool for all academic and non-academic staff. 
