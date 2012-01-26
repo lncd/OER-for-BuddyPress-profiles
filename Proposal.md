@@ -32,21 +32,49 @@ A further impact of this project at Lincoln will be the role it plays in support
 														  
 Third-party APIs < Consumer < BP profile > Nucleus APIs > Producer > lincoln.ac.uk	 and elsewhere...
 
-* Agile methods (iterative, user focused, Constant Integration).
-* Open development (Github, Pivotal Tracker)
-* Quality assurance (unit testing, code peer-review, user testing, collaboration with CUNY)
-* Month 1: Initiate project. Set up website and development environment. Investigate existing BuddyPress/WordPress APIs and plugins.
-* Month 2: Investigate a number of (at least three) third-party APIs for consuming/integration into BuddyPress profiles, including licensing and API T&C.
-* Month 3-4: Integration of data from third-party APIs into BuddyPress profiles as consumer application. Enriching staff profiles with open content and rich metadata.
-* Month 5-6: Integration of BuddyPress profiles with Nucleus datastore, enabling 're-publishing' of staff profiles with open content via APIs over OAuth. e.g. corporate website.
-* Month 6: Close project. Finish up documentation, release plugin(s) on wordpress.org repository. Roll out new features to staff profiles.
+This is a six-month project, undertaken by one full-time Web Developer and run using the Crystal Clear agile methodology, which we use on other development projects (http://lncn.eu/gt4). Crystal Clear is characterised by the following:
+
+1. Seat people close together, communicating frequently and with goodwill
+2. Get most of the bureaucracy out of their way and let them design
+3. Get a real user directly involved
+4. Have a good automated regression test suite available
+5. Produce shippable functionality early and often
+
+Within this environment, we practice open development, using Github as a source code repository and Pivotal Tracker to iteratively manage project tasks. We have recently implemented an automated regression test suite and practice 'Constant integration'.
+
+Such an environment will support the Developer on this project by ensuring that his code is available for peer-review by colleagues and publicly available for scrutiny. Code will be constantly tested for quality assurance and thereby provide working code for regular user testing. 
+
+## Schedule of work
+
+* Month 1: Initiate project. Set up website and development tools. Investigate existing BuddyPress/WordPress APIs and plugins. Agree working practices with principle User and identify other key users on the project (Embedding OER project and CUNY Academic Commons in a Box project).
+
+* Month 2: With the principle User, investigate at least three third-party APIs for integration into BuddyPress profiles. Review any licensing and Terms and Conditions on the use of this data. Design wire-frames of the academic profile management tool for user acceptance.
+
+* Month 3-4: Working with CUNY, develop BuddyPress plugins, which integrate data from selected third-party APIs into BuddyPress profiles, enriching staff profiles with open content and rich metadata. Iteratively test the plugins with local users and colleagues at CUNY.
+
+* Month 5-6: Working with Web Developers at Lincoln, aggregate data from enriched BuddyPress profiles into the Nucleus (MongoDB) datastore, enabling re-publishing of staff profiles with open content via APIs over OAuth. e.g. corporate website. Iteratively test the APIs with our local Web Team (Marketing).
+
+* Month 6: Finish up documentation, release plugin(s) on wordpress.org repository. Roll out new features to all staff profiles. Close project.
 
 ## Risk assessment
 
-* Involves recently appointed staff, who need to learn several different technologies (WordPress/BuddyPress/MongoDB/OAuth). They have some prior experience of this and will be mentored by more experienced staff.
-* We need to investigate licensing issues around storage and re-publishing of third-party data. It may be that we need to 'cache' third-party data rather than warehouse it.
-* The BuddyPress plugin we produce may only provide limited functionality. Our use of Nucleus as an aggregated datastore of staff profile data (e.g. HR database, LDAP, BuddyPress) is the bigger project. Therefore, design documents will be a significant output to show how it can be extended for broader use. Nevertheless, the BuddyPress plugin will be self-contained and functional.
-* Build it and they will/won't come!? This is a rapid innovation project, which are characteristically experimental and exploratory. We have a clear Use Case, with potential for institution-wide impact. The concurrent 'Embedding OER project' and our VC's role as Chair of HEFCE OER Committee, make us well placed to promote OER across the institution and the use of the project outputs.
+As a Rapid Innovation project, we are proposing to undertake work we consider to be of high risk but potentially widespread benefit.
+
+1. The project involves recently appointed staff, who need to learn several different technologies (WordPress/BuddyPress/MongoDB/OAuth). 
+
+They have some prior experience of this and will be mentored by more experienced staff.
+
+2. We need to investigate licensing issues around storage and re-publishing of third-party data. 
+
+It may be that we need to 'cache' third-party data rather than warehouse it.
+
+3. The BuddyPress plugin we produce may only provide limited functionality to the University of Lincoln. 
+
+Our use of Nucleus as an aggregated datastore of staff profile data (e.g. HR database, LDAP, BuddyPress) is the bigger project. Therefore, design documents will be a significant output to show how the data can be re-published on other institutional websites and web services. Nevertheless, the BuddyPress plugin will be self-contained and functional for widespread public use.
+
+4. Are staff publishing open content? 
+
+This is a rapid innovation project, which are characteristically experimental and exploratory. We have a clear Use Case, with potential for institution-wide impact. The concurrent 'Embedding OER project' and our VC's role as Chair of HEFCE OER Committee, make us well placed to promote OER across the institution and the use of the project outputs.
 
 ## Engagement and dissemination
 
