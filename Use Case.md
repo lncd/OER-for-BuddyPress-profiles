@@ -31,9 +31,11 @@
 # EXTENSIONS
 
 4a1. The third-party website does not provide a RESTful API, but does provide an RSS/XML feed.
+
 4a2. The Academic copies and pastes the RSS feed into the required field of her online institutional profile, setting appropriate filters.
 
 4b1. The third-party website does not provide a RESTful API, nor an RSS/XML feed.
+
 4b2. The Academic copies the link to her profile on the third-party website and and pastes it into the required field of her online institutional profile.
 
 # SUB-VARIATIONS
