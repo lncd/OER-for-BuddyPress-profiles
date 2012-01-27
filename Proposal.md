@@ -36,7 +36,7 @@ Within this environment, we practice open development (http://lncd.lincoln.ac.uk
 
 ## Schedule of work
 
-* Month 1: Initiate project. Set up website and development tools. Investigate existing BuddyPress/WordPress APIs and plugins. Agree working practices with Principle User and identify other key Users on the project (Lincoln's Embedding OER project and CUNY Academic Commons in a Box project).
+* Month 1: Initiate project. Set up website and development tools. Investigate existing BuddyPress/WordPress APIs and plugins. Agree working practices with Principle User and identify other key Users on the project (Lincoln's Embedding OER project and CUNY Commons In A Box project).
 
 * Month 2: With the Principle User, investigate at least three third-party APIs for integration into BuddyPress profiles. Review any licensing and Terms and Conditions on the use of this data. Design wire-frames of the academic profile management tool for user acceptance.
 
@@ -74,11 +74,11 @@ This is a rapid innovation project, which are characteristically experimental an
 
 * Is the work sustainable?
 
-The project outputs are closely aligned with on-going work at Lincoln. The plugin(s) will be released under a GPL license and made available on the wordpress.org plugin repository. We will seek to have the plugin included as part of the CUNY Academic Commons in a Box project.
+The project outputs are closely aligned with on-going work at Lincoln. The plugin(s) will be released under a GPL license and made available on the wordpress.org plugin repository. We will seek to have the plugin included as part of the CUNY Commons In A Box project.
 
 ## Engagement and dissemination
 
-We blog regularly across all projects we work on (http://lncd.lincoln.ac.uk/projects) and maintain an active Twitter account of all project work (http://twitter.com/lncd). We have discussed our proposed project with Prof. Matt Gold, Director of the CUNY Academic Commons in a Box project, and he has agreed to a formal connection between both projects, offering user testing, Developer mentoring and peer-review and the possibility of including our work as part of the CUNY project. The work of the project will be disseminated widely at the University of Lincoln, through the HEA Change Academy 'Embedding OER' project, run by Sue Watling, who is our Principal User. Once complete, the plugin will be activated for all staff at the University of Lincoln on our BuddyPress platform.
+We blog regularly across all projects we work on (http://lncd.lincoln.ac.uk/projects) and maintain an active Twitter account of all project work (http://twitter.com/lncd). We have discussed our proposed project with Prof. Matt Gold, Director of the CUNY Commons In A Box project, and he has agreed to a formal partnership between both projects, offering user testing, Developer mentoring and peer-review and the possibility of including our work as part of the CUNY project. The work of the project will be disseminated widely at the University of Lincoln, through the HEA Change Academy 'Embedding OER' project, run by Sue Watling, who is our Principal User. Once complete, the plugin will be activated for all staff at the University of Lincoln on our BuddyPress platform.
 
 The outputs of the project will be GPL licensed and developed and hosted on Github, a 'social coding' platform that encourages and facilitates code forking and collaborative development. The plugin will be made available to all WordPress.org users via the official plugin repository. An announcement will be made on the BuddyPress.org developer forum and we will use that platform as our main method of communicating project progress to the BuddyPress community. We will also post announcements and updates to the JISC 'WordPress in education and research' mailing list and contribute to any JISC and related OER programme meetings and conferences.
 
