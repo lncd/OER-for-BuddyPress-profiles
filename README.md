@@ -10,7 +10,7 @@ This proposal seeks funds to investigate and develop BuddyPress so as to integra
 
 The main outcome of this work will be a plugin or set of plugins that can be used with BuddyPress to extend an individual's profile to re-present resources that are held on disparate websites such as YouTube, Slideshare, Jorum, etc. The plugins will be open source and made available via the official WordPress.org plugin repository. 
 
-Furthermore, through an agreed relationship with the CUNY 'Academic Commons in a Box' project, we will extend our user testing to that related project and seek advice from their staff, who are core contributors to BuddyPress. It is our intention that the work of this project, complements the overall CUNY project.
+Furthermore, through an agreed relationship with the CUNY 'Commons In A Box' project, we will extend our user testing to that related project and seek advice from their staff, who are core contributors to BuddyPress. It is our intention that the work of this project, complements the overall CUNY project.
 
 # License for this grant application
 
